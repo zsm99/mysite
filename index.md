@@ -2,7 +2,7 @@
 
 ## 我的照片
 
-<img src="image\1.png" style="zoom:33%;" />
+<figure class="half"><img src="image/1.png" width="500"><img src="image/5.jpg" width="500"> </figure>
 
 ## 我的视频
 
